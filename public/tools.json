@@ -1,0 +1,56 @@
+[
+	{
+		"_id": "1",
+		"name": "The Claw Hammer",
+		"image": "https://i.ibb.co/p3YWKff/claw-hammer.webp",
+		"description": "Let’s start with perhaps the most basic tool in every household – the claw hammer. The claw on one side of the head should be well counterbalanced by the finished head, which should be somewhat rounded. The other kind of head is the waffle-head. Most commonly used in construction, it leaves a distinctive waffle mark on the wood when you drive the nail. This, of course, is not the proper nail for woodworking.A poorly-balanced claw hammer will twist in your hand, making it difficult to drive nails properly. You normally grip a claw hammer with your hand at the back of the grip, letting the weight of the head do most of the work. All you have to do is direct the driving surface toward the right nail, sparing the ones on your hand.The most commonly purchased claw hammer is the 20 oz. size. It’s heavy enough to easily drive nails but easily manipulated when pulling nails. While wooden handles are picturesque, they may not stand up to the strain if you have to pull a lot of nails. Hammers with a steel handle, or even fiberglass, will be stronger. However, these won’t absorb the vibrations from driving nails the way a hickory handle will. You’ll also need to make sure the fiberglass and metal handles have a rubberized grip for control and comfort. If you’re going to be driving a lot of nails, the wooden handled hammer will be better for reducing stress on your hand, and wrist, too.",
+		"min_quantity": "20",
+		"available_quantity": "1500",
+		"price": "13"
+	},
+	{
+		"_id": "2",
+		"name": " The Hand Saw",
+		"image": "https://i.ibb.co/3dzpyX5/handsaw.webp",
+		"description": "A high-quality hand saw should not be overlooked. In fact, a select collection of hand saws may be one of the most valuable additions to your woodworking shop. You don’t have to use a power saw on everything – in fact, you probably won’t want to. You need to be able to feel the wood’s response under the saw blade, and the saw blade’s response to the wood. Besides a coping and a tenon saw, you may want a dovetail saw and a hand miter saw, too. In fact, for many woodworkers, a fine collection of Japanese saws is the backbone of their craft. For general use, start out with a fretsaw for woodworkers – it’s like a coping saw for wood. You need a mini saw, too, for areas in which a chisel just won’t work. Then, a good tenon saw should follow, along with a miter box that you can use with the tenon saw. Other saws, with their variety of cutting surfaces and angles, will come as the need arises.",
+		"min_quantity": "30",
+		"available_quantity": "2500",
+		"price": "19"
+	},
+	{
+		"_id": "3",
+		"name": "The Power Drill",
+		"image": "https://i.ibb.co/Vj9n4Gy/power-drill.webp",
+		"description": "The next power tool you should purchase is a power drill. Now, many people swear by cordless drills, but they’re more expensive, and they can’t do everything that an electric drill can do – that’s where the term “power” comes in. Power drills are not as expensive, and they’re more powerful than cordless drills, which do have their place in your shop. The steady power that comes with a corded drill makes it a better tool for extended use, especially when using large bits such as paddle bits.",
+		"min_quantity": "10",
+		"available_quantity": "150",
+		"price": "89"
+	},
+	{
+		"_id": "4",
+		"name": "The Screwdriver",
+		"image": "https://i.ibb.co/7SPSKg4/screwdriver.webp",
+		"description": "Screwdrivers are another must-have in the woodworker’s set of hand tools. Not only will you need Phillips and slot, or flathead screwdrivers, you’ll need star drivers and Torx drivers, too. Quality construction is vital to a good set of screwdrivers. So many of them are made out of soft metal, and the first time you put any “oomph” behind them, they strip out, becoming absolutely useless.You’ll need a long screwdriver with a square blade that is very heavy duty. This gives you a lot of torque. You’ll also need a small and medium slot screwdriver. For working on cabinets or tight places in woodworking, you’ll need a screwdriver with a thin shank so that you can reach screws that are inside of deep holes. This is accomplished with a cabinet screwdriver. Get a couple of medium Phillips head screwdrivers, and a stubby one too, for those tight places. You may also want a ratcheting screwdriver.If your slot screwdrivers are high-quality material, you’ll be able to grind them flat when they get worn. Beware, though, that too much heat will change the temper of the metal, weakening it so that it won’t drive or draw screws. By the way, some of dad’s tips for getting the most out of his screwdrivers:",
+		"min_quantity": "50",
+		"available_quantity": "5000",
+		"price": "5"
+	},
+	{
+		"_id": "5",
+		"name": "The Tape Measure",
+		"image": "https://i.ibb.co/NZBT7BR/tape-measure.webp",
+		"description": "The next important hand tool for the woodworker is an accurate tape measure. Get a retractable one that is at least 25 feet long. Any longer than that, and you start having problems getting it to roll back up. Since measurements on large scale projects can be very susceptible to even the most minute measurement variations, you’ll want to make sure the “hook” or tab at the end of the is firmly attached, with no give. When they get loose, you’ll have as much as 1/8” variation in your measurements. This can add up to some severe accuracy problems in the long run",
+		"min_quantity": "30",
+		"available_quantity": "4000",
+		"price": "15"
+	},
+	{
+		"_id": "6",
+		"name": "The Utility Knife",
+		"image": "https://i.ibb.co/X86fQYH/utility-knife.webp",
+		"description": "A good utility knife is another asset for the woodworker. There are many different kinds, but the kind that uses disposable blades is the most common. The blade retracts into the grip for safety. The woodworker will use the utility knife when cleaning out mortise joints or to scribe wood, as well as many other uses.",
+		"min_quantity": "50",
+		"available_quantity": "2000",
+		"price": "9"
+	}
+]
